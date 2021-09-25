@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Mehbark/wsworld#readme",
   "dependencies": {
+    "discord.js": "^13.1.0",
     "ws": "^8.2.1"
   }
 }
