@@ -1,0 +1,22 @@
+{
+  "name": "wsworld",
+  "version": "1.0.0",
+  "description": "like my last thing but actually doing the thing i wanted to do",
+  "scripts": {
+    "agentTest": "node agents/test.js",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mehbark/wsworld.git"
+  },
+  "author": "mehbark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehbark/wsworld/issues"
+  },
+  "homepage": "https://github.com/Mehbark/wsworld#readme",
+  "dependencies": {
+    "ws": "^8.2.1"
+  }
+}
