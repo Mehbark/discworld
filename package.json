@@ -4,7 +4,7 @@
   "description": "like my last thing but actually doing the thing i wanted to do",
   "scripts": {
     "agentTest": "node agents/test.js",
-    "start": "node server/server.js"
+    "start": "node server/server.js; node discord/bot.js"
   },
   "repository": {
     "type": "git",
